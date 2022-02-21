@@ -12,12 +12,12 @@
 ## MARCO TEÓRICO (RESUMEN)
 
 **Circuitos RC - CAP 15**
-**1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo? **
+**1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?**
 
 Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos, se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo, tales como las ondas seno y otras cantidades de circuitos de ca. La mayoría de las calculadoras científicas realizan operaciones con números complejo
 Entonces las dos características de una cantidad indicada mediante un numero complejo es la Magnitud y el ángulo
 
-**3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo: **
+**3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:**
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/1.PNG)
 
@@ -31,10 +31,11 @@ Como tenemos los valores de los lados usamos el teorema de Pitágoras y con eso 
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/3.PNG)
 
-**9. Convierta cada uno de los siguientes números polares a forma rectangular:**
-
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/4.PNG)
+
+**9. Convierta cada uno de los siguientes números polares a forma rectangular:**
+
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/5.PNG)
 
