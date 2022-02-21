@@ -14,6 +14,7 @@
 **Circuitos RC - CAP 15**
 
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(19).png)
 
 **Circuitos RL - CAP 16**
 
