@@ -12,6 +12,17 @@
 ## MARCO TEÓRICO (RESUMEN)
 
 **Circuitos RC - CAP 15**
+
+
+
+**Circuitos RL - CAP 16**
+
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+**Circuitos RC - CAP 15**
+
 **1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?**
 
 Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos, se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo, tales como las ondas seno y otras cantidades de circuitos de ca. La mayoría de las calculadoras científicas realizan operaciones con números complejo
@@ -21,7 +32,7 @@ Entonces las dos características de una cantidad indicada mediante un numero co
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/1.PNG)
 
-**5. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3. **
+**5. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.**
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/2.PNG)
 
@@ -134,17 +145,6 @@ una resistencia pura no puede causar desplazamiento de fase entre voltaje y corr
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/27.PNG)
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/28.PNG)
-
-
-
-
-**Circuitos RL - CAP 16**
-
-
-## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-
-**Circuitos RC - CAP 15**
 
 
 **Circuitos RL - CAP 16**
