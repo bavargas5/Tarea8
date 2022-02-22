@@ -156,59 +156,157 @@ En este caso la frecuencia se mantiene es decir será de 15 kHz, lo único que c
 
 **3. Exprese la impedancia total de cada circuito de la figura tanto en forma polar como rectangular.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/1.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/2.png)
 
 **5. En la figura, determine la impedancia para cada una de las siguientes frecuencias:**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/3.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/4.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/5.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/6.png)
 
 **7. Reduzca el circuito de la figura a una sola resistencia e inductancia en serie.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/7.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/8.png)
 
 **9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/9.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/10.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/11.png)
 
 **11. Calcule la corriente total en cada circuito de la figura y exprésela en forma polar.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/12.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/13.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/14.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/15.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/16.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/17.png)
 
 **13. Si se duplica la inductancia que aparece en la figura, ¿en cuántos grados aumenta o disminuye θ?**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/18.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/19.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/20.png)
 
 **15. Para el circuito de la figura, encuentre VR y VL para cada una de las siguientes frecuencias:**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/21.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/22.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/23.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/24.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/25.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/26.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/27.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/28.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/29.png)
 
 **17. Para el circuito de retraso de la figura, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/30.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/31.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/32.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/33.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/34.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/35.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/36.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/37.png)
 
 **19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura?**
 
-
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/38.png)
 
 **21. ¿A qué frecuencia XL es igual a R en la figura?**
 
-
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/39.png)
 
 **23. Determine las siguientes cantidades en la figura:**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/40.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/41.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/42.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/43.png)
 
 **27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura. Trace el diagrama fasorial de voltaje.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/44.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/45.png)
 
 **37. Determine la potencia verdadera y la potencia reactiva en la figura.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/46.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/47.png)
 
 **41. Trace la curva de respuesta para el circuito de la figura. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/48.png)
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/49.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/50.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/51.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/52.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/53.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/54.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/55.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/56.png)
 
 **43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras a una frecuencia de 8 kHz.**
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/57.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/58.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/59.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/60.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/61.png)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BV/62.png)
 
 ## VIDEO
 
