@@ -18,6 +18,7 @@
 
 **Circuitos RL - CAP 16**
 
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/Circuitos%20RL.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
