@@ -153,6 +153,32 @@ una resistencia pura no puede causar desplazamiento de fase entre voltaje y corr
 
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/28.PNG)
 
+**35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.**
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/P_35.JPG)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/R_35.JPG)
+
+**37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz**
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/P_37.JPG)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/R_37.JPG)
+
+**39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.**
+
+**- 38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz
+con Vs = 1 V rms.**
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/P_37.JPG)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/R_39.JPG)
+
+**41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.**
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/P_41.JPG)
+
+![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20AR/R_41.JPG)
 
 **Circuitos RL - CAP 16**
 
