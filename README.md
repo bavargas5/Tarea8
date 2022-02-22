@@ -13,7 +13,6 @@
 
 **Circuitos RC - CAP 15**
 
-
 ![](https://github.com/bavargas5/Tarea8/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(19).png)
 
 **Circuitos RL - CAP 16**
@@ -151,6 +150,65 @@ una resistencia pura no puede causar desplazamiento de fase entre voltaje y corr
 
 **Circuitos RL - CAP 16**
 
+**1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?**
+
+En este caso la frecuencia se mantiene es decir será de 15 kHz, lo único que cambia son las señales que están desfasadas en 90°
+
+**3. Exprese la impedancia total de cada circuito de la figura tanto en forma polar como rectangular.**
+
+
+
+**5. En la figura, determine la impedancia para cada una de las siguientes frecuencias:**
+
+
+
+**7. Reduzca el circuito de la figura a una sola resistencia e inductancia en serie.**
+
+
+
+**9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura.**
+
+
+
+**11. Calcule la corriente total en cada circuito de la figura y exprésela en forma polar.**
+
+
+
+**13. Si se duplica la inductancia que aparece en la figura, ¿en cuántos grados aumenta o disminuye θ?**
+
+
+
+**15. Para el circuito de la figura, encuentre VR y VL para cada una de las siguientes frecuencias:**
+
+
+
+**17. Para el circuito de retraso de la figura, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:**
+
+
+
+**19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura?**
+
+
+
+**21. ¿A qué frecuencia XL es igual a R en la figura?**
+
+
+
+**23. Determine las siguientes cantidades en la figura:**
+
+
+**27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura. Trace el diagrama fasorial de voltaje.**
+
+
+**37. Determine la potencia verdadera y la potencia reactiva en la figura.**
+
+
+
+**41. Trace la curva de respuesta para el circuito de la figura. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.**
+
+
+
+**43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras a una frecuencia de 8 kHz.**
 
 ## VIDEO
 
