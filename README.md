@@ -4,9 +4,15 @@
 
 **Generales**
 
-
+Organizar la información relacionada a circuitos RC y RL mediante mapas mentales para su correcto análisis y su posterior aplicación en la resolución de circuitos.
 
 **Específicos**
+
+-	Utilizar los conceptos básicos sobre números complejos.
+
+-	Aplicar de manera correcta la formula de impedancia para circuitos RC y RL
+
+-	Interpretar los resultados para la creación de diagramas fasoriales
 
 
 ## MARCO TEÓRICO (RESUMEN)
@@ -314,7 +320,11 @@ En este caso la frecuencia se mantiene es decir será de 15 kHz, lo único que c
 
 ## CONCLUSIONES
 
+-	En conclusión, los nueros complejos son de gran utilidad para la representación de fasores tanto en forma polar como en forma rectangular, los cuales son muy utilizados en circuitos RC y RL
 
+-	Los circuitos RC se caracterizan por el uso de capacitores en donde dependiendo de su función pueden adelantar o retrasar un voltaje de salida respecto a un voltaje de entrada.
+
+-	Los circuitos RL utilizan inductores los cuales dependiendo de su configuración adelantan o retrasan el voltaje de una señal de entrada.
 
 ## BIBLIOGRAFÍA
 
