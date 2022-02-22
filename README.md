@@ -328,3 +328,8 @@ En este caso la frecuencia se mantiene es decir será de 15 kHz, lo único que c
 
 ## BIBLIOGRAFÍA
 
+-Circuitos RC. (s. f.). Cidecame. Recuperado 22 de febrero de 2022, de http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro16/28_circuitos_rc_resistencia_en_capasitore.html
+
+-Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
+-¿Qué es un Circuito RL: Funcionamiento y sus Usos. (2021, 10 noviembre). Electrónica Online. Recuperado 22 de febrero de 2022, de https://electronicaonline.net/electronica/circuito-rl-funcionamiento-usos/
